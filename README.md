@@ -37,6 +37,10 @@ Pet Rock Simulator is a simple game where you care for your rock by performing b
 </br>
 
 
+# 🖼️ **Screenshots**
+
+![petrocksim in use](/home/arnoldp@CSGP.EDU/Projects/Pet Rock Sim/pet-rock-simulator-Patch-Arnold/petrocksim.png)
+
 
 # 📄 License
 This project is licensed under the MIT License.
@@ -50,7 +54,7 @@ Patch Arnold
 Email: pumkinpatch9210@gmail.com 
 
 
-GitHub:https://github.com/Patch-Arnold 
+GitHub: https://github.com/Patch-Arnold 
 
 
 LinkedIn: https://www.linkedin.com/in/patch-arnold-a79522386/ 
