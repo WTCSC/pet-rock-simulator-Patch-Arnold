@@ -39,7 +39,7 @@ Pet Rock Simulator is a simple game where you care for your rock by performing b
 
 # 🖼️ **Screenshots**
 
-![petrocksim in use](/home/arnoldp@CSGP.EDU/Projects/Pet Rock Sim/pet-rock-simulator-Patch-Arnold/petrocksim.png)
+![petrocksim in use](images/petrocksim.png)
 
 
 # 📄 License
