@@ -1,45 +1,52 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3zOHVIfr)
 # 📘 Pet Rock Simulator
-## A game about taking care of your pet rock.
+  _A game about taking care of your pet rock... because why not?_
 
+<br>
+</br>
 
 # 🧠 About
-This is a game about taking care of your rock, and choosing basic activities with the rock to keep it healthy.
+Pet Rock Simulator is a simple game where you care for your rock by performing basic activities to keep it “healthy” and happy.
+
+<br>
+</br>
+
 # ✨ Features
-✅Playing with the rock to increase happiness
+🎾 Play with your rock – Boost its happiness.
 
+🍽️ Feed your rock – Reduce hunger.
 
-✅Feeding the rock to decrease hunger
+⏳ Age timer – Track your rock’s lifespan.
 
-
-✅An age timer, giving a cap on the time.
-
-
-✅Naming your pet rock
-
+🏷️ Name your rock – Personalize your pet.
+<br></br>
 
 
 # 🚀 Installation
-# Clone the repository
-git clone https://github.com/WTCSC/pet-rock-simulator-Patch-Arnold.git
+1. Clone the repository
+2. git clone https://github.com/WTCSC/pet-rock-simulator-Patch-Arnold.git
 
-## Open the terminal
+ 3. Open the terminal
 
+ 4. Start the game via typing into the terminal:
 
-## Start the game
-### python3 petrocksim.py
-
-
+    * python3 petrocksim.py
 
 
+<br>
+</br>
 
 
-#📄 License
+
+# 📄 License
 This project is licensed under the MIT License.
- Or choose another license appropriate for your project.
 
-#📬 Contact
+<br>
+</br>
+
+# 📬 Contact
 Patch Arnold
+
 Email: pumkinpatch9210@gmail.com 
 
 
@@ -48,11 +55,16 @@ GitHub:https://github.com/Patch-Arnold
 
 LinkedIn: https://www.linkedin.com/in/patch-arnold-a79522386/ 
 
+<br>
+</br>
 
 
-#🚀 To return changes to Github
+# 🚀 To return changes to Github
 
-git add .
-git commit -m "petrocksim"
-git push 
+* git add .
+
+* git commit -m "petrocksim"
+
+* git push 
+
 
